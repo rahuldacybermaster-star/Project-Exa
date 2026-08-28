@@ -1,0 +1,6 @@
+{
+  "name": "CyberSafe Student Shield",
+  "description": "Student-focused cybersecurity awareness, education, incident reporting, real-time assistance, and member verification platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
